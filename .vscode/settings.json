@@ -14,5 +14,6 @@
     "--background-index",
     "--query-driver=**",
     "--compile-commands-dir=c:\\git\\traffic_lights\\build"
-  ]
+  ],
+  "idf.flashType": "UART"
 }
